@@ -9,4 +9,4 @@ install: dmenu-recent-aliases-mod
 
 .PHONY: uninstall
 uninstall:
-	rm -f $(DESTDIR)$(PREFIX)/bin/dmenu-recent-aliases
+	rm -f $(DESTDIR)$(PREFIX)/bin/dmenu-recent-aliases-mod
